@@ -2,7 +2,7 @@
   "name": "x1337divisionbot",
   "version": "1.0.0",
   "description": "Telegram Bot",
-  "main": "index.js",
+  "main": "dist/bot.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/bot.js",
